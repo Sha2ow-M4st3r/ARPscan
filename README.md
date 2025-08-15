@@ -1,5 +1,5 @@
 # ARPScanner
-ARP Scanning  
+Network Host Discovery With ARP Scanning  
 
 This is a simple Python script designed to scan a network range to find active devices via the ARP protocol. It is important to note that the script is not very fast due to the lack of multi-threading.
 This script is only useful for learning network socket programming in Python and for modeling and implementing it on a small network.
